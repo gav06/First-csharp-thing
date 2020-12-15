@@ -1,0 +1,13 @@
+C:\Users\slies\Desktop\first c# thing\bin\Debug\netcoreapp3.1\first c# thing.exe
+C:\Users\slies\Desktop\first c# thing\bin\Debug\netcoreapp3.1\first c# thing.deps.json
+C:\Users\slies\Desktop\first c# thing\bin\Debug\netcoreapp3.1\first c# thing.runtimeconfig.json
+C:\Users\slies\Desktop\first c# thing\bin\Debug\netcoreapp3.1\first c# thing.runtimeconfig.dev.json
+C:\Users\slies\Desktop\first c# thing\bin\Debug\netcoreapp3.1\first c# thing.dll
+C:\Users\slies\Desktop\first c# thing\bin\Debug\netcoreapp3.1\first c# thing.pdb
+C:\Users\slies\Desktop\first c# thing\obj\Debug\netcoreapp3.1\first c# thing.csprojAssemblyReference.cache
+C:\Users\slies\Desktop\first c# thing\obj\Debug\netcoreapp3.1\first c# thing.AssemblyInfoInputs.cache
+C:\Users\slies\Desktop\first c# thing\obj\Debug\netcoreapp3.1\first c# thing.AssemblyInfo.cs
+C:\Users\slies\Desktop\first c# thing\obj\Debug\netcoreapp3.1\first c# thing.csproj.CoreCompileInputs.cache
+C:\Users\slies\Desktop\first c# thing\obj\Debug\netcoreapp3.1\first c# thing.dll
+C:\Users\slies\Desktop\first c# thing\obj\Debug\netcoreapp3.1\first c# thing.pdb
+C:\Users\slies\Desktop\first c# thing\obj\Debug\netcoreapp3.1\first c# thing.genruntimeconfig.cache
